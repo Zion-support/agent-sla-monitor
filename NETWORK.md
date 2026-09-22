@@ -1,14 +1,15 @@
 # 🌐 Zion App Network — Interlinks
 
-**agent-sla-monitor** — SLA monitoring for AI agents. Part of the Zion Tech Group app network (630+ apps).
+**agent-sla-monitor** is part of the Zion Tech Group app network (630+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 - 🗂️ Category: [AI Agents & Orchestration](https://github.com/Zion-support/zion-network/blob/main/network/ai-agents-orchestration.md)
 
 ## Related apps
-- [zion-agent-observability](https://github.com/Zion-support/zion-agent-observability) — agent observability scorecard
-- [zion-agents](https://github.com/Zion-support/zion-agents) — autonomous agent fleet
-- [zion-ai-sla-breach-sentinel](https://github.com/Zion-support/zion-ai-sla-breach-sentinel) — SLA breach early-warning
+- [agents](https://github.com/Zion-support/agents) — AI Agents — Zion Tech Group
+- [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) — Fleet orchestration for enterprise automation
+- [ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) — Unified agent swarm coordination
+- [ai-agent-swarm-v2](https://github.com/Zion-support/ai-agent-swarm-v2) — Swarm intelligence with consensus algorithms
 - [zion-network](https://github.com/Zion-support/zion-network) — network hub
 
 ---
