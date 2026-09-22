@@ -1,16 +1,17 @@
 # 🌐 Zion App Network — Interlinks
 
-**agent-sla-monitor** is part of the Zion Tech Group app network (630+ apps).
+**agent-sla-monitor** is part of the Zion Tech Group app network (640+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [AI Agents & Orchestration](https://github.com/Zion-support/zion-network/blob/main/network/ai-agents-orchestration.md)
+- 🏠 [Zion Tech Group](https://ziontechgroup.com) · 💼 [Plans](https://ziontechgroup.com/en/plans/) · 📞 [Discovery](https://ziontechgroup.com/discovery/)
 
 ## Related apps
-- [agents](https://github.com/Zion-support/agents) — AI Agents — Zion Tech Group
-- [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) — Fleet orchestration for enterprise automation
-- [ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) — Unified agent swarm coordination
-- [ai-agent-swarm-v2](https://github.com/Zion-support/ai-agent-swarm-v2) — Swarm intelligence with consensus algorithms
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+- [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) — https://ziontechgroup.com/ai-agent-fleet/
+- [ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) — https://ziontechgroup.com/ai-agent-swarm/
+- [ai-agent-swarm-v2](https://github.com/Zion-support/ai-agent-swarm-v2) — https://ziontechgroup.com/ai-agent-swarm-v2/
+- [ai-agent-workflow](https://github.com/Zion-support/ai-agent-workflow) — https://ziontechgroup.com/ai-agent-workflow/
+- [ai-agent-workflow-builder](https://github.com/Zion-support/ai-agent-workflow-builder) — https://ziontechgroup.com/ai-agent-workflow-builder/
+- [ai-infrastructure-monitor](https://github.com/Zion-support/ai-infrastructure-monitor) — https://ziontechgroup.com/ai-infrastructure-monitor/
 
 ---
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
