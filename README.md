@@ -1,7 +1,7 @@
 # agent-sla-monitor
 Agent SLA Monitor — an AI-powered app in the Zion Tech Group platform. Part of the **Zion App Network** (640+ apps by Zion Tech Group).
 
-- 🌐 Live app: https://ziontechgroup.com/agent-sla-monitor/
+- 📐 Live app: https://ziontechgroup.com/agent-sla-monitor/
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
 - 📞 Discovery call: https://ziontechgroup.com/discovery/
 - 🧰 All tools: https://ziontechgroup.com/tools/
@@ -20,8 +20,11 @@ Agent SLA Monitor — an AI-powered app in the Zion Tech Group platform. Part of
 - [ai-agent-workflow](https://github.com/Zion-support/ai-agent-workflow) — https://ziontechgroup.com/ai-agent-workflow/
 - [ai-agent-workflow-builder](https://github.com/Zion-support/ai-agent-workflow-builder) — https://ziontechgroup.com/ai-agent-workflow-builder/
 - [ai-infrastructure-monitor](https://github.com/Zion-support/ai-infrastructure-monitor) — https://ziontechgroup.com/ai-infrastructure-monitor/
+- [zion-ai-sla-breach-sentinel](https://github.com/Zion-support/zion-ai-sla-breach-sentinel) — https://ziontechgroup.com/zion-ai-sla-breach-sentinel/
+- [zion-ai-energy-sentinel](https://github.com/Zion-support/zion-ai-energy-sentinel) — https://ziontechgroup.com/zion-ai-energy-sentinel/
+- [zion-ai-contract-guardian](https://github.com/Zion-support/zion-ai-contract-guardian) — https://ziontechgroup.com/zion-ai-contract-guardian/
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · Apps hub: https://ziontechgroup.com/zion-apps-hub/ · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 
-© 2026 Zion Tech Group · https://ziontechgroup.com/
+© 2026 Zion Tech Group · https://ziontechgroup.com
