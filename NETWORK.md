@@ -1,18 +1,29 @@
-# Zion App Network
+# Agent SLA Monitor — static concept
 
-This app is part of the **Zion App Network** — 200+ free, open-source AI & IT micro-apps by [Zion Tech Group](https://ziontechgroup.com).
+A concept for planning human review of service-level evidence, not a connected SLA monitor.
 
-## Network hubs
-- [App Network Explorer](https://ziontechgroup.com/apps/)
-- [Full App Catalog](https://ziontechgroup.com/apps/catalog.html)
-- [Network Overview](https://ziontechgroup.com/app-network/)
-- [Announcement](https://ziontechgroup.com/blog/zion-app-network-200-apps.html)
-- [GitHub Organization](https://github.com/Zion-support)
+## Capability status
+The inspected repository provides a static landing page and documentation. No ticket/CRM connector, breach prediction, event scheduler, audit logger or report-generation runtime is present in the reviewed files.
 
-## Related apps
-- [SLO Calculator](https://ziontechgroup.com/slo-calculator/)
-- [Incident Runbook](https://ziontechgroup.com/incident-runbook/)
-- [Status Page Generator](https://ziontechgroup.com/status-page-generator/)
-- [API Health Probe](https://ziontechgroup.com/api-health-probe/)
+Use synthetic or public data. This page has no upload, account connection, live monitoring, automatic alerts or AI execution. It does not provide legal advice, safety certification or a guaranteed outcome.
 
-Need a custom AI solution? [Contact Zion Tech Group](https://ziontechgroup.com/contact/) — discovery is free.
+## Five-language page candidates
+- [English](https://ziontechgroup.com/agent-sla-monitor/)
+- [Português (Brasil)](https://ziontechgroup.com/agent-sla-monitor/pt/)
+- [Español](https://ziontechgroup.com/agent-sla-monitor/es/)
+- [Français](https://ziontechgroup.com/agent-sla-monitor/fr/)
+- [Deutsch](https://ziontechgroup.com/agent-sla-monitor/de/)
+
+These routes are proposed source paths, not a live publication claim. Native-language and browser review remain pending.
+
+## Related concepts
+- [Zion AI Contract Guardian](https://ziontechgroup.com/zion-ai-contract-guardian/) · [source](https://github.com/Zion-support/zion-ai-contract-guardian)
+- [Zion AI Energy Sentinel](https://ziontechgroup.com/zion-ai-energy-sentinel/) · [source](https://github.com/Zion-support/zion-ai-energy-sentinel)
+
+## Network navigation
+- [Master directory](https://ziontechgroup.com/zion-app-network/)
+- [Homepage](https://ziontechgroup.com/)
+- [Discovery](https://ziontechgroup.com/discovery/)
+
+## Evidence and release gate
+Static source inspection only. No AI, live telemetry, delivery, legal, safety or security certification. Re-read current file hashes before applying. All three repositories must publish together to avoid broken locale links. Do not alter the website manual-only deployment hold. No main push, merge, deploy, form submission, booking or background automation is authorized by this review pack.
